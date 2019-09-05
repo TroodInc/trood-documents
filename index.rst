@@ -11,7 +11,7 @@ Welcome to TroodCore's documentation!
    :maxdepth: 3
    :glob:
 
-   */index
+   troodcore/*/index
 
 
 
