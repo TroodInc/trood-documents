@@ -7,13 +7,18 @@ Welcome to TroodCore's documentation!
 =====================================
 
 .. toctree::
-   :caption: Contents:
+   :caption: Trood Core Services:
    :maxdepth: 3
    :glob:
 
    troodcore/*/index
 
+.. toctree::
+   :caption: Trood SDK:
+   :maxdepth: 3
+   :glob:
 
+   troodsdk/*/index
 
 Indices and tables
 ==================
