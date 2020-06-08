@@ -20,6 +20,13 @@ Welcome to TroodCore's documentation!
 
    troodsdk/*/index
 
+.. toctree::
+   :caption: Trood Tools:
+   :maxdepth: 3
+   :glob:
+
+   troodtools/*/index
+
 Indices and tables
 ==================
 
