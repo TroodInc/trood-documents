@@ -88,7 +88,8 @@ html_theme_path = ["themes", ]
 # documentation.
 #
 html_theme_options = {
-    'logo_only': True
+    'logo_only': True,
+    "style_nav_header_background": "#343131"
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
