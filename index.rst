@@ -7,6 +7,15 @@ Welcome to TroodCore's documentation!
 =====================================
 
 .. toctree::
+   :caption: General:
+   :maxdepth: 3
+   :glob:
+
+   services
+   abac
+   rql
+
+.. toctree::
    :caption: Trood Core Services:
    :maxdepth: 3
    :glob:
@@ -26,10 +35,3 @@ Welcome to TroodCore's documentation!
    :glob:
 
    troodtools/*/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
