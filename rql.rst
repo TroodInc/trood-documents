@@ -1,3 +1,3 @@
 
-RQL Query language
-==================
+RQL Filtering
+=============
